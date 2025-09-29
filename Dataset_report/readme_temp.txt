@@ -1,2 +1,0 @@
-- [Quick start](#Quick-start)
-- [Deep Learning Step for Classification and Segmentation](#Deep-Learning-Step-for-Classification-and-Segmentation)
