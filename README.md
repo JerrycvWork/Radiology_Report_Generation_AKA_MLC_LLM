@@ -94,7 +94,7 @@ Settings will be stored as .json file and it includes all parameters of data. (c
 
 First of all, please check the "class hp" in file "Multi_Label_Classification_Session/language_model_classification_train_test_asyloss.py". It includes the parameters of training and test. Please put the image folder of each datasets (IU X-Ray and MIMIC-CXR) into the parameters correctly. 
 
-And then, I only have the time for the core functions (Training/Testing/Validation) writing. For other functions (Validation performance visualization/Keyword statistics visualization/Talos Optimization/etc), I still need the time for writing.
+Only the core functions (Training/Testing/Validation) writing. For other functions (Validation performance visualization/Keyword statistics visualization/Talos Optimization/etc), I still need the time for writing.
 
 
 ### Using Keyword List to generate radiology report by Text-to-text Large Language Model
