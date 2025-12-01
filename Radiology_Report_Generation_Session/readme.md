@@ -135,6 +135,3 @@ If you use this code in your research, please cite our paper:
 ## 🤝 Acknowledgements
 
 This codebase leverages [SimpleT5](https://github.com/Shivanandroy/simpleT5) for model training and [CXRMetric](https://www.google.com/search?q=https://github.com/aehrc/CXRMetric) for clinical evaluation.
-
-```
-```
