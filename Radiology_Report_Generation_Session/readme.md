@@ -18,7 +18,7 @@ This project provides a unified framework for generating radiology reports from 
 ├── requirements.txt     \# Python dependencies
 └── README.md            \# This file
 
-````
+```
 
 ## 🛠️ Installation
 
@@ -26,7 +26,7 @@ This project provides a unified framework for generating radiology reports from 
    ```bash
    git clone [https://github.com/JerrycvWork/Radiology_Report_Generation_AKA_MLC_LLM](https://github.com/JerrycvWork/Radiology_Report_Generation_AKA_MLC_LLM)
    cd your-repo
-````
+```
 
 2.  **Install dependencies:**
 
