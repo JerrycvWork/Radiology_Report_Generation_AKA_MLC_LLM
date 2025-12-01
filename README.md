@@ -99,5 +99,7 @@ Only the core functions (Training/Testing/Validation) writing. For other functio
 
 ### Using Keyword List to generate radiology report by Text-to-text Large Language Model
 
-Wait for the filling.
+2025/12/01 Upload the draft version of radiology report generation from the result of Multi-Label Classification.
+
+Please check the details in the corresponding section.
 
